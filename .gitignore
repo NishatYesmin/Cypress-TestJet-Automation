@@ -1,0 +1,7 @@
+extension/package-lock.json
+client/tests/e2e/videos
+.idea
+.DS_Store
+client/.env
+client/ .env
+client/.env
